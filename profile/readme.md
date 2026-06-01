@@ -4,7 +4,7 @@
 
 ### *Atrás do véu, toda verdade tem um preço.*
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/.github/main/profile/the-final-dream-banner.png" width="100%">
+<img src="https://www.iceveil.com.br/assets/the-final-dream.png" width="100%">
 
 <br>
 
