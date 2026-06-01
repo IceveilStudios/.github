@@ -4,7 +4,7 @@
 
 ### *Atrás do véu, toda verdade tem um preço.*
 
-<img src="[https://www.iceveil.com.br/assets/tfd-banner2.png](https://camo.githubusercontent.com/f438482d54eeffdcbdca761566e9f998d8e8aa497623a6ea5dfcfb0309e0d6bf/68747470733a2f2f7777772e6963657665696c2e636f6d2e62722f6173736574732f7466642d62616e6e6572322e706e67)" width="100%">
+<img src="tfd-banner2.png" width="100%">
 
 <br>
 
